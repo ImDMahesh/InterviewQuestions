@@ -1,2 +1,0 @@
-# InterviewQuestions
-Java Interview Questions
